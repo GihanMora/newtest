@@ -7,7 +7,7 @@ def index(request):
     return HttpResponse('''<html>
     
     <h1>new app</h1>
-    dsasasa
+    dsasa
     <script>
 function receiveMessage(event)
 {
